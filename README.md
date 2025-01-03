@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alban Jore
-- 👀 I’m interested in game development and website development
-- 🌱 I’m currently learning Python and html
+- 👀 I’m interested in Java and spigot plugin development
+- 🌱 I’m currently learning Java
 - 📫 How to reach me : Send a message to 07 49 04 66 11 or jore.alban@gmail.com
 
 <!---
